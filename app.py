@@ -66,7 +66,7 @@ st.markdown(
     🎥 Live Object Detection & Tracing
     </h1>
     <p style='text-align: center;'>
-    Stable YOLOv8 Deployment App (One File Version)
+    Point your camera at objects to identify them in real-time
     </p>
     """,
     unsafe_allow_html=True
